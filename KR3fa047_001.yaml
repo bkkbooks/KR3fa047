@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR3fa047/tls/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 幾何原本序本章節有句讀標點符號者請見唐虞之世自羲和治厯暨司空后稷工虞典樂五官者非度數不為功數與居一焉而五藝者不以度數從事亦不得工也襄曠之於音般墨之於械豈有他謬巧哉精于用法爾已故嘗謂三代而上為此業者盛有元元本本師傅曹習之學而畢喪於祖龍之𦦨漢以來多任意揣摩如盲人射的虛發無效或依擬形似如持螢燭象得首失尾至於今而此道盡廢有不得不費者矣幾何原本者度數之宗所以窮方圓平直之情盡規矩準繩之用也利先生從少年時論道之暇留意藝學且此業在彼中所謂師傅曹習者其師丁氏又絶代名家也以故極精其說而與不佞游久講談餘晷時時及之因請其象數諸書更以華文獨謂此書未譯則他書俱不可得論遂共翻其要約六卷既卒業而復之由顯入微從疑得信蓋不用為用衆用所基真可謂萬象之形囿百家之學海雖實未竟然以當他書既可得而論矣私心自謂不意古學廢絶二千年後頓獲補綴唐虞三代之闕典遺義其裨益當世定復不小因偕二三同志刻而傳之先生曰是書也以當百家之用度幾有羲和般墨其人乎猶其小者有大用于此將以習人之靈才令細而確也余以為小用大用實在其人如鄧林伐材棟梁榱桷恣所取之耳顧惟先生之學略有三種大者修身事天小者格物窮理物理之一端別為象數一一皆精實典要洞無可疑其分解擘析亦能使人無疑而余乃亟傳其小者趨欲先其易使人繹其文想見其意理而知先生之學可信不疑大槩如是則是書之為用更大矣他所說幾何諸家藉此為用略具其自敘中不備論吳淞徐光啓書正文
+  hash: sha256:a298ce77c86e76f41b40cac801a5344a1deededb211249c0968d481b608dbddd
+  markers:
+  - {type: 'tls:div-start', offset: 0, content: '', id: KR3fa047_tls_001-bkkds1, level: 2}
+  - {type: 'tls:div-end', offset: 0, content: '', id: KR3fa047_tls_001-bkkde1}
+  - {type: 'tls:div-start', offset: 0, content: '', id: KR3fa047_tls_001-h0001.s001, level: 2, head_text: 幾何原本序}
+  - {type: 'tls:head', offset: 0, content: '', id: KR3fa047_tls_001-h0001.s001}
+  - {type: 'tls:div-end', offset: 571, content: '', id: KR3fa047_tls_001-h0001.s001}
+  - {type: 'tls:div-start', offset: 571, content: '', id: KR3fa047_tls_001-h0002.s001, level: 2, head_text: 正文}
+  - {type: 'tls:head', offset: 571, content: '', id: KR3fa047_tls_001-h0002.s001}
+  - {type: 'tls:div-end', offset: 573, content: '', id: KR3fa047_tls_001-h0002.s001}
+metadata:
+  title: 幾何原本
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa047.xml
+hash: sha256:6117ce76c13b67b0d5c689140b3b82a3b22d5cd98be4666478b094c174b9c56b

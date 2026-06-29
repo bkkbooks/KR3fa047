@@ -1,0 +1,351 @@
+canonical_identifier: bkk:krp/KR3fa047/v1
+canonical_location: https://kanripo.org/bkk/KR3fa047/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 幾何原本
+  identifiers:
+    krp: KR3fa047
+  tags:
+    kr-categories: KR3f
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa047.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3fa047_001.yaml, hash: 'sha256:6117ce76c13b67b0d5c689140b3b82a3b22d5cd98be4666478b094c174b9c56b'}
+  - {seq: 2, filename: KR3fa047_002.yaml, hash: 'sha256:d5caa9f0def1599843c14c8f7681daa8be57ad334ab96973c05d85fdeef4e783'}
+  - {seq: 3, filename: KR3fa047_003.yaml, hash: 'sha256:6439222c0589ac9bbbc1289bd3962c62e56f83b2e0d6152a4e2b9e6e22f1abf5'}
+  - {seq: 4, filename: KR3fa047_004.yaml, hash: 'sha256:82468da43974b073a92c62bc9172a64d9b26354f7318b63e4dd7f844f6313357'}
+  - {seq: 5, filename: KR3fa047_005.yaml, hash: 'sha256:27897f23fd197911313c8e046019ce8c3065a7549ffa9625415217f4341fe418'}
+  - {seq: 6, filename: KR3fa047_006.yaml, hash: 'sha256:11ea917e0ce0e28c92e729c2b51bf32f637938e2e19efbe5ad6c761378c0d644'}
+  - {seq: 7, filename: KR3fa047_007.yaml, hash: 'sha256:30d4b7b6ee699226117a0ea55af69f47e9c9f485cd4b787f72a7a3379fd94581'}
+  - {seq: 8, filename: KR3fa047_008.yaml, hash: 'sha256:c88c0ad55194e9ad05246ccc6c05f210847165e84a2d2005123f8d72ba446716'}
+  - {seq: 9, filename: KR3fa047_009.yaml, hash: 'sha256:6713a86d94d81de3b1e9b16a719d5912cd9bfa0fef9b9fe4c0428a6195d01d19'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3fa047_001.markers.yaml, hash: 'sha256:c610c9692bfbd0fd4e5b8fed08abbd9a3bf97caec508ae01b5cf99e07576a3b1'}
+  - {seq: 2, role: markers, filename: assets/KR3fa047_002.markers.yaml, hash: 'sha256:8ee1f18d2e66548938b2a4b0daba43b160c26e12a7a2fa69eff0f3f416588394'}
+  - {seq: 3, role: markers, filename: assets/KR3fa047_003.markers.yaml, hash: 'sha256:5d42b39e52b3650ac87c1571ed32327a35bf043c52653c67e3c77ec49c4e203a'}
+  - {seq: 4, role: markers, filename: assets/KR3fa047_004.markers.yaml, hash: 'sha256:3b2d68466442a66c937673a2e47d18db38170165f58f3017278681cdd941abbc'}
+  - {seq: 5, role: markers, filename: assets/KR3fa047_005.markers.yaml, hash: 'sha256:5f7ecd5b1d2d0484778e67805a9528fb4bfecb68e8626efb0900ba1918fcc853'}
+  - {seq: 6, role: markers, filename: assets/KR3fa047_006.markers.yaml, hash: 'sha256:743e5a653bc04cef3ee4560f0932d09c40e4c255d14aef141ce716f4b6fd7bd3'}
+  - {seq: 7, role: markers, filename: assets/KR3fa047_007.markers.yaml, hash: 'sha256:82e656d99d190f723c9e9494d8cb55ba63f14a874765ae53b24cb571d28299f4'}
+  - {seq: 8, role: markers, filename: assets/KR3fa047_008.markers.yaml, hash: 'sha256:2e1a332549b09ced1e138bc63fdc6d21f2a7a7f10f4fbb0cc2a16cb64a6eeff7'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 573
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3fa047_tls_001-h0001.s001
+    span:
+    - body
+    - 0
+    - 571
+  label: 幾何原本序
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3fa047_tls_001-h0002.s001
+    span:
+    - body
+    - 571
+    - 573
+  label: 正文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 370
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 18188
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3fa047_tls_003-h0001.s001
+    span:
+    - body
+    - 0
+    - 2931
+  label: 卷一之首
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3fa047_tls_003-h0002.s001
+    span:
+    - body
+    - 4
+    - 1719
+  label: 界說三十六則
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3fa047_tls_003-h0003.s001
+    span:
+    - body
+    - 1719
+    - 2067
+  label: 求作四則
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3fa047_tls_003-h0004.s001
+    span:
+    - body
+    - 2067
+    - 2931
+  label: 公論十九則
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3fa047_tls_003-h0005.s001
+    span:
+    - body
+    - 2931
+    - 18188
+  label: 卷一
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 7259
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3fa047_tls_004-h0001.s001
+    span:
+    - body
+    - 0
+    - 353
+  label: 卷二之首
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3fa047_tls_004-h0002.s001
+    span:
+    - body
+    - 4
+    - 353
+  label: 界説二則
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3fa047_tls_004-h0003.s001
+    span:
+    - body
+    - 353
+    - 7259
+  label: 卷二
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 15637
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3fa047_tls_005-h0001.s001
+    span:
+    - body
+    - 0
+    - 944
+  label: 卷三之首
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3fa047_tls_005-h0002.s001
+    span:
+    - body
+    - 4
+    - 944
+  label: 界説十則
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3fa047_tls_005-h0003.s001
+    span:
+    - body
+    - 944
+    - 15637
+  label: 卷三
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 6576
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3fa047_tls_006-h0001.s001
+    span:
+    - body
+    - 0
+    - 395
+  label: 卷四之首
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR3fa047_tls_006-h0002.s001
+    span:
+    - body
+    - 4
+    - 395
+  label: 界說七則
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3fa047_tls_006-h0003.s001
+    span:
+    - body
+    - 395
+    - 6576
+  label: 卷四
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 17998
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3fa047_tls_007-h0001.s001
+    span:
+    - body
+    - 0
+    - 6224
+  label: 卷五之首
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3fa047_tls_007-h0002.s001
+    span:
+    - body
+    - 4
+    - 6224
+  label: 界説十九則
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3fa047_tls_007-h0003.s001
+    span:
+    - body
+    - 6224
+    - 17998
+  label: 卷五
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 28874
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3fa047_tls_008-h0001.s001
+    span:
+    - body
+    - 0
+    - 2600
+  label: 卷六之首
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3fa047_tls_008-h0002.s001
+    span:
+    - body
+    - 4
+    - 2600
+  label: 界説六則
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3fa047_tls_008-h0003.s001
+    span:
+    - body
+    - 2600
+    - 28874
+  label: 卷六
+  type: section
+  level: 2
+- ref:
+    seq: 9
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 11
+  label: ''
+  type: section
+  level: 1
+hash: sha256:e67116ff8c3356bcc8682188beae6251d7f1962cb884ef79f91e7fb0ccd517bd
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

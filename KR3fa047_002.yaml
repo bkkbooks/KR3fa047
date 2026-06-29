@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR3fa047/tls/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 臣等謹案幾何原本六卷西洋撰譯而所筆受也歐基里德未詳何時人起原書十三卷五百餘題利馬竇之師丁氏又續補於後共為十五卷今止六卷者徐光啓自謂譯受是書此其最要者也其書每卷有界說有公論有設題界說者先取所用明目解說之公論者舉其不可疑之理設題則據所欲言之理次第設之先其易者次其難者由淺而深由簡而繁推之至無以復加而後已又每題有法有解有論有系法言題意用解述題意論則發明其所以然之理系則又有旁通者為卷一論三角形卷二論線卷三論圓卷四論圓內外形卷五卷六俱論比例其餘三角方圓邊線面積體積比例變化相生之義無不曲折盡顯纖微畢露光啓序稱其窮方圓平直之情盡規矩準繩之用非虛語也且此為歐邏巴算學專書前作後述不絶於世至歐几里得而為是書蓋亦集諸家之成故至始至終毫無疵顏加以光啓反覆推闡其文句尤為明顯以是辨冕西術不為過矣乾隆四十六年十二月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:b2c335d93a9360e874224724e0e7d6edad8118619545fef95529c9c26bc40136
+  markers:
+  - {type: 'tls:div-start', offset: 0, content: '', id: KR3fa047_tls_002-bkkds1, level: 2}
+  - {type: 'tls:div-end', offset: 370, content: '', id: KR3fa047_tls_002-bkkde1}
+metadata:
+  title: 幾何原本
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa047.xml
+hash: sha256:d5caa9f0def1599843c14c8f7681daa8be57ad334ab96973c05d85fdeef4e783

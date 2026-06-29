@@ -1,0 +1,10 @@
+canonical_identifier: bkk:krp/KR3fa047/tls/v1/markers/9
+seq: 9
+markers:
+  front: []
+  body:
+  - {type: xml-element, offset: 0, content: '', id: KR3fa047_tls_009-p0001, name: p, role: open, attrs: {'xml:id': KR3fa047_tls_009-p0001}}
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fa047_tls_009-p0001.s001}
+  - {type: xml-element, offset: 11, content: '', id: KR3fa047_tls_009-p0001_end, name: p, role: close, attrs: {'xml:id': KR3fa047_tls_009-p0001}}
+  back: []
+hash: sha256:a3c5ca5ceac542ebde1dfa685af09f6cac4495a94101d868127e5b0ee0c27cee

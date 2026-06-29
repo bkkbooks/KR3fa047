@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR3fa047/tls/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 餘卷所譯者為清代李善蘭
+  hash: sha256:d1c7c01d6accd726f361451007f47334fe8d762efc1bed219c4db59d51343d85
+  markers:
+  - {type: 'tls:div-start', offset: 0, content: '', id: KR3fa047_tls_009-bkkds1, level: 2}
+  - {type: 'tls:div-end', offset: 11, content: '', id: KR3fa047_tls_009-bkkde1}
+metadata:
+  title: 幾何原本
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fa047.xml
+hash: sha256:6713a86d94d81de3b1e9b16a719d5912cd9bfa0fef9b9fe4c0428a6195d01d19
